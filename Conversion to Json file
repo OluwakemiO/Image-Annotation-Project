@@ -1,0 +1,162 @@
+Info	[
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Laptop",
+    "x_min": 1100,
+    "y_min": 935,
+    "x_max": 1843,
+    "y_max": 1517,
+    "Width": 740,
+    "Height": 578
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Flower vase ",
+    "x_min": 218,
+    "y_min": 489,
+    "x_max": 1353,
+    "y_max": 1420,
+    "Width": 1134,
+    "Height": 929
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Notepad ",
+    "x_min": 356,
+    "y_min": 1417,
+    "x_max": 1121,
+    "y_max": 1601,
+    "Width": 763,
+    "Height": 178
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Mug",
+    "x_min": 1868,
+    "y_min": 1179,
+    "x_max": 2112,
+    "y_max": 1464,
+    "Width": 241,
+    "Height": 285
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Mobile Phone",
+    "x_min": 1990,
+    "y_min": 1432,
+    "x_max": 2318,
+    "y_max": 1545,
+    "Width": 319,
+    "Height": 97
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Chair",
+    "x_min": 875,
+    "y_min": 1620,
+    "x_max": 2206,
+    "y_max": 1995,
+    "Width": 1334,
+    "Height": 374
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Table",
+    "x_min": 0,
+    "y_min": 1317,
+    "x_max": 2993,
+    "y_max": 1995,
+    "Width": 2768,
+    "Height": 1954
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Window",
+    "x_min": 6,
+    "y_min": 1,
+    "x_max": 1021,
+    "y_max": 789,
+    "Width": 1015,
+    "Height": 788
+  },
+  {
+    "Image Name": "OIP (2).jpeg",
+    "Object Label": "Wall",
+    "x_min": 0,
+    "y_min": 1,
+    "x_max": 2996,
+    "y_max": 1998,
+    "Width": 2994,
+    "Height": 1996
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Picture Frame",
+    "x_min": 141,
+    "y_min": 606,
+    "x_max": 303,
+    "y_max": 706,
+    "Width": 165,
+    "Height": 105
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Picture Frame",
+    "x_min": 346,
+    "y_min": 489,
+    "x_max": 503,
+    "y_max": 706,
+    "Width": 164,
+    "Height": 222
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Picture Frame",
+    "x_min": 1430,
+    "y_min": 399,
+    "x_max": 1805,
+    "y_max": 708,
+    "Width": 377,
+    "Height": 309
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Book Shelf",
+    "x_min": 568,
+    "y_min": 96,
+    "x_max": 1339,
+    "y_max": 704,
+    "Width": 773,
+    "Height": 620
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Books",
+    "x_min": 608,
+    "y_min": 129,
+    "x_max": 855,
+    "y_max": 385,
+    "Width": 246,
+    "Height": 254
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Books",
+    "x_min": 1011,
+    "y_min": 114,
+    "x_max": 1304,
+    "y_max": 385,
+    "Width": 291,
+    "Height": 269
+  },
+  {
+    "Image Name": "1.png",
+    "Object Label": "Flower Pots ",
+    "x_min": 603,
+    "y_min": 410,
+    "x_max": 1265,
+    "y_max": 699,
+    "Width": 664,
+    "Height": 292
+  }
+]
