@@ -1,8 +1,10 @@
 Manual Image Annotation for Object Detection
+
+
 This repository contains manually annotated bounding box data for object detection tasks. The dataset includes labeled objects from multiple images, with annotations stored in CSV and JSON formats.
 
 Project Overview
-Annotation Method: Bounding boxes manually drawn using Paint and metadata recorded in Google Sheets.
+Annotation Method: Bounding boxes are manually drawn using Paint, and metadata is recorded in Google Sheets.
 
 Data Format: JSON & CSV
 
@@ -26,4 +28,4 @@ Convert JSON annotations to CSV for easy processing.
 
 Use the dataset to train AI models for object detection.
 
-🔹 Contributions & Improvements Welcome! 
+Contributions & Improvements Welcome! 
